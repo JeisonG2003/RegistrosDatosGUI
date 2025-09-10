@@ -1,4 +1,4 @@
-# **RegistroDatosGUI**
+# **Registros Datos GUI**
 
 Repositorio del proyecto desarrollado para la asignatura **Programación Orientada a Objetos (POO)** en la **Universidad Estatal Amazónica**, carrera de **Ingeniería en Tecnologías de la Información**.
 
